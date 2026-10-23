@@ -1,0 +1,24 @@
+[package]
+name = "vat-return"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+description = "VAT return boxes from AR invoices and AP bills — deductible-only input tax, per-currency, tax-point filtered"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/WyattAu/vat-return"
+keywords = ["vat", "accounting", "tax", "finance"]
+categories = ["finance"]
+
+[dev-dependencies]
+double-entry = "=0.1.0"
+
+[dependencies]
+vat-rules = "=0.1.0"
+invoice-kit = "=0.2.1"
+ap-kit = "=0.1.1"
+
+[lints.clippy]
+unwrap_used = "deny"
+expect_used = "deny"
+indexing_slicing = "deny"
+panic = "deny"
