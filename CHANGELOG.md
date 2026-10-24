@@ -5,6 +5,23 @@ Changelog](https://keepachangelog.com/) — versions follow [semver](https://sem
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-10-24
+
+### Changed
+
+- Tracks the invoice-kit 1.0.0 API-stability release (identical surface to
+  0.2.1). No behavioural change: the pin move keeps one Invoice type in a
+  graph whose consumer already binds 1.0.0.
+
+
+## [0.1.1] - 2026-10-24
+
+### Changed
+
+- Tracks  (the API-stability release; identical surface to
+  0.2.1). No behavioural change: the pin move keeps one  type in a
+  graph whose consumer already binds 1.0.0.
+
 ## [0.1.0] - 2026-10-07
 
 Initial release.
