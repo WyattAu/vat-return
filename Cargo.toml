@@ -1,6 +1,6 @@
 [package]
 name = "vat-return"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 rust-version = "1.85"
 description = "VAT return boxes from AR invoices and AP bills — deductible-only input tax, per-currency, tax-point filtered"
@@ -10,12 +10,12 @@ keywords = ["vat", "accounting", "tax", "finance"]
 categories = ["finance"]
 
 [dev-dependencies]
-double-entry = "=0.1.0"
+double-entry = "=0.1.1"
 
 [dependencies]
 vat-rules = "=0.1.0"
-invoice-kit = "=1.0.0"
-ap-kit = "=0.1.1"
+invoice-kit = "=1.0.2"
+ap-kit = "=0.1.3"
 
 [lints.clippy]
 unwrap_used = "deny"

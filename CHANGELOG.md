@@ -5,6 +5,13 @@ Changelog](https://keepachangelog.com/) — versions follow [semver](https://sem
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-10-24
+
+### Changed
+
+- Tracks `ap-kit 0.1.3` and `invoice-kit 1.0.2` — the estate's graph-wide convergence on `double-entry 0.1.1`. No behavioural change.
+
+
 ## [0.1.1] - 2026-10-24
 
 ### Changed
