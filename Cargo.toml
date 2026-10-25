@@ -1,9 +1,9 @@
 [package]
 name = "vat-return"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2024"
 rust-version = "1.85"
-description = "VAT return boxes from AR invoices and AP bills — deductible-only input tax, per-currency, tax-point filtered"
+description = "VAT return boxes from AR invoices and AP bills: deductible-only input tax, per-currency, tax-point filtered"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/WyattAu/vat-return"
 keywords = ["vat", "accounting", "tax", "finance"]
