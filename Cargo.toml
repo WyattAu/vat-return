@@ -14,7 +14,7 @@ double-entry = "=0.1.1"
 
 [dependencies]
 vat-rules = "=0.1.1"
-invoice-kit = "=1.0.2"
+invoice-kit = "=1.0.3"
 ap-kit = "=0.1.4"
 
 [lints.clippy]
