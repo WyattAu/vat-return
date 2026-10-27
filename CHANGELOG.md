@@ -5,6 +5,13 @@ Changelog](https://keepachangelog.com/) — versions follow [semver](https://sem
 
 ## [Unreleased]
 
+## [0.1.7] - 2026-10-27
+
+### Changed
+
+- Tracks `invoice-kit 1.1.0` (VAT-inclusive pricing) — the graph's convergence, after 0.1.6 was published twice with divergent pins by two agents in a version race. This release is the converged set: invoice-kit 1.1.0, ap-kit 0.1.5, vat-rules 0.1.1, double-entry 0.1.1.
+
+
 ## [0.1.6] - 2026-10-27
 
 ### Changed
