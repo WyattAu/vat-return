@@ -5,6 +5,13 @@ Changelog](https://keepachangelog.com/) — versions follow [semver](https://sem
 
 ## [Unreleased]
 
+## [0.1.6] - 2026-10-27
+
+### Changed
+
+- Tracks `ap-kit 0.1.5` (the vat-rules 0.1.1 convergence release). No behavioural change.
+
+
 ## [0.1.5] - 2026-10-27
 
 ### Changed
