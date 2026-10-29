@@ -5,6 +5,13 @@ Changelog](https://keepachangelog.com/) — versions follow [semver](https://sem
 
 ## [Unreleased]
 
+## [0.1.8] - 2026-10-27
+
+### Changed
+
+- Tracks `invoice-kit 1.1.1` (BR-CO coverage constants). The 0.1.6 version race (two agents, same version, divergent pins) meant the index had 0.1.6 with invoice-kit 1.0.3, then 0.1.7 with invoice-kit 1.0.3 (the concurrent agent's). This 0.1.8 carries the converged set: invoice-kit 1.1.1, ap-kit 0.1.5, vat-rules 0.1.1.
+
+
 ## [0.1.7] - 2026-10-27
 
 ### Changed
