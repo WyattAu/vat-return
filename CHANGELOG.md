@@ -5,6 +5,13 @@ Changelog](https://keepachangelog.com/) — versions follow [semver](https://sem
 
 ## [Unreleased]
 
+## [0.1.10] - 2026-10-29
+
+### Changed
+
+- Tracks `invoice-kit 1.2.0` (BR-AE-02 enforcement). No behavioural change to this crate.
+
+
 ## [0.1.9] - 2026-10-29
 
 ### Changed

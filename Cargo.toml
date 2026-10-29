@@ -1,6 +1,6 @@
 [package]
 name = "vat-return"
-version = "0.1.9"
+version = "0.1.10"
 edition = "2024"
 rust-version = "1.85"
 description = "VAT return boxes from AR invoices and AP bills: deductible-only input tax, per-currency, tax-point filtered"
